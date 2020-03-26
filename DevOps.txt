@@ -1,0 +1,8 @@
+Devops
+1174070159
+
+Git:
+Creating Repository:
+1.git init
+2.git status
+3.git add .
