@@ -6,3 +6,6 @@ Creating Repository:
 1.git init
 2.git status
 3.git add .
+4.git commit -m "Message"
+5.git remote add origin "<URL of the repository"
+6.
