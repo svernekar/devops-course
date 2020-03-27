@@ -18,4 +18,4 @@ Creating Repository:
 14. git stash
 15. git stash pop
 16. git revert "commit ids"Devops
-1174070159
+1174070159 
